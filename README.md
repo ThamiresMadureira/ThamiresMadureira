@@ -1,6 +1,5 @@
-  <h1>✨Olá eu sou a Thamires Madureira✨</h1>
+  <h1>✨Olá eu sou a Thamires Madureira 💻✨</h1>
  🚀 Cursando Sistemas de informação<br>
-💻 Atualmente estou me aprofundado em JavaScript e frameworks front-end<br>
 🌠 Buscando sempre evolução e o compartihamento de conhecimentos<br>
 <br>
 
